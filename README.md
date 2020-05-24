@@ -23,3 +23,8 @@
 
 :memo:  [Descrição do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)  
 :rocket: [Resolução](https://github.com/mattheuseinloft/desafio4-conceitos-react-native)  
+
+
+---
+
+Made with 💙 and ☕ by Mattheus Einloft
