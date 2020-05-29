@@ -27,11 +27,15 @@
 :memo:  [Descrição do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-nodejs)  
 :rocket: [Resolução](https://github.com/mattheuseinloft/desafio5-fundamentos-nodejs)  
 
-
 ### Desafio 6 - Banco de dados e upload de arquivos no Node.js
 
 :memo:  [Descrição do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload)  
 :rocket: [Resolução](https://github.com/mattheuseinloft/desafio6-database-upload)  
+
+### Desafio 7 - Fundamentos do ReactJS
+
+:memo:  [Descrição do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs)  
+:rocket: [Resolução](https://github.com/mattheuseinloft/desafio7-fundamentos-reactjs)  
 
 
 ---
