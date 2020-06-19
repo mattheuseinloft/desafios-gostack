@@ -37,6 +37,10 @@
 :memo:  [Descrição do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs)  
 :rocket: [Resolução](https://github.com/mattheuseinloft/desafio7-fundamentos-reactjs)  
 
+### Desafio 8 - Fundamentos do React Native
+
+:memo:  [Descrição do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)  
+:rocket: [Resolução](https://github.com/mattheuseinloft/desafio8-fundamentos-react-native)  
 
 ---
 
