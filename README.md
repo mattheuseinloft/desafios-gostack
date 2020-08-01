@@ -42,6 +42,11 @@
 :memo:  [Descrição do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)  
 :rocket: [Resolução](https://github.com/mattheuseinloft/desafio8-fundamentos-react-native)  
 
+### Desafio 9 - Relacionamentos com banco de dados no Node.js
+
+:memo:  [Descrição do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-relations)  
+:rocket: [Resolução](https://github.com/mattheuseinloft/desafio9-database-relations)  
+
 ---
 
 Made with 💙 and ☕ by Mattheus Einloft
